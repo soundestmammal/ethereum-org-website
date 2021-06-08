@@ -48,7 +48,7 @@ These improvements all have a place in Eth2 so it’s likely that their progress
 
 ## After the merge {#after-the-merge}
 
-This will signal the end of proof-of-work for Ethereum and start the era of a more sustainable, eco-friendly Ethereum. 
+This will signal the end of proof-of-work for Ethereum and start the era of a more sustainable, eco-friendly Ethereum.
 At this point Ethereum will be one step closer to achiving the full scale, security and sustainability outlined in its [Eth2 vision](/eth2/vision/).
 
 ## Relationship between upgrades {#relationship-between-upgrades}
@@ -63,7 +63,7 @@ Once the merge happens, stakers will be assigned to validate the Ethereum mainne
 
 ### The merge and shard chains {#docking-and-shard-chains}
 
-Originally, the plan was to work on shard chains before the merge – to address scalability. However, with the boom of [layer 2 scaling solutions](/developers/docs/layer-2-scaling/), the priority has shifted to swapping proof-of-work to proof-of-stake via the merge.
+Originally, the plan was to work on shard chains before the merge – to address scalability. However, with the boom of [layer 2 scaling solutions](/developers/docs/scaling/#layer-2-scaling), the priority has shifted to swapping proof-of-work to proof-of-stake via the merge.
 
 This will be an ongoing assessment from the community as to the need for potentially multiple rounds of shard chains to allow for endless scalability.
 
